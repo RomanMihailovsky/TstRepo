@@ -1,0 +1,13 @@
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\InvCtrl.exe.config
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.csprojResolveAssemblyReference.cache
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.Form1.resources
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.Properties.Resources.resources
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.csproj.GenerateResource.Cache
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\InvCtrl.exe
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\InvCtrl.pdb
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\EntityFramework.dll
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\EntityFramework.xml
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.exe
+c:\users\михайловский\documents\visual studio 2013\Projects\InvCtrl\InvCtrl\obj\Debug\InvCtrl.pdb
