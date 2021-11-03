@@ -14,7 +14,7 @@ namespace InvCtrl
         [STAThread]
         static void Main()
         {
-            // внешн
+            // внешн // внутр
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
