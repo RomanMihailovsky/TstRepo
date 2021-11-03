@@ -23,7 +23,7 @@ namespace InvCtrl
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //
             context = new EFDbContext();
             cart = new Cart();
         }
