@@ -15,7 +15,7 @@ namespace InvCtrl
         static void Main()
         {
             // внешн // внутр
-            // // branch edition
+            // // branch edition  // branch edition 2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
